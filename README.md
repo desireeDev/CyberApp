@@ -15,8 +15,7 @@ L’application offre un parcours ludique, des conseils pratiques et un accompag
 
 
 🔐 Développée avec Flutter | UI responsive | Expérience utilisateur fluide
-
-
+ Vu que nous sommes à la phase de test,on utlisera Firebase comme backend pour le premier jet
 
 <img width="256" alt="image" src="https://github.com/user-attachments/assets/51c15188-0147-4d45-9e81-81ed6fbf1705" />
 <img width="247" alt="image" src="https://github.com/user-attachments/assets/2d320a77-ec63-4439-9298-37ce067d4cac" />
